@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Die\ here.\r\n\r\n\ @author\ (Mark\ Vasfeld)\r\n\ @version\ (1.0,\ Sep\ 23.\ 2018)\r\n
+comment1.params=
+comment1.target=Die()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Die\r\n
+comment2.params=Name
+comment2.target=Die(java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Die\r\n\ @param\ \ String\ to\ hold\ the\ name\ of\ the\ die\r\n
+comment3.params=
+comment3.target=void\ roll()
+comment3.text=\r\n\ Method\ sets\ the\ face\ falue\ of\ the\ dice\ using\ random\ number\ generator\r\n\ Face\ values\ could\ be\:\ 1,2,3,4,5,6\r\n\ @param\ \ no\ params\r\n\ @return\ no\ return\ value\r\n
+comment4.params=
+comment4.target=int\ getValue()
+comment4.text=\r\n\ Method\ returns\ the\ face\ value\ of\ the\ dice\r\n\ @param\ \ no\ params\r\n\ @return\ int\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\ Method\ prints\ the\ face\ value\ of\ the\ dice\r\n\ \ @param\ \ no\ params\r\n\ \ @return\ String\r\n
+numComments=6
