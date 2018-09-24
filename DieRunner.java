@@ -71,7 +71,7 @@ public class DieRunner
                     System.out.println("Score:" + score + "     Incorrect Guesses:" + numIncorrect);
 
                     //Printing total value of the last roll
-                    System.out.println("Last roll was:" + lastRoll);
+                    System.out.println("Last roll was:" + currentRoll);
                     System.out.println();
                     
                     //Setting last roll to current roll
@@ -111,7 +111,7 @@ public class DieRunner
                     System.out.println("Score:" + score + "     Incorrect Guesses:" + numIncorrect);
 
                     //Printing total value of the last roll
-                    System.out.println("Last roll was:" + lastRoll);
+                    System.out.println("Last roll was:" + currentRoll);
                     System.out.println();
                     
                     //Setting last roll to current roll
@@ -151,7 +151,7 @@ public class DieRunner
                     System.out.println("Score:" + score + "     Incorrect Guesses:" + numIncorrect);
 
                     //Printing total value of the last roll
-                    System.out.println("Last roll was:" + lastRoll);
+                    System.out.println("Last roll was:" + currentRoll);
                     System.out.println();
                     
                     //Setting last roll to current roll
@@ -166,6 +166,7 @@ public class DieRunner
                     continue;
             }                       
         }
+        System.out.println("Your final score is: " + score);
         System.out.println("Game Over");
     }
 }
