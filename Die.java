@@ -2,8 +2,8 @@
 /**
  * Write a description of class Die here.
  *
- * @author (Mark Vasfeld)
- * @version (1.0, Sep 23. 2018)
+ * @author (Greg Vasfeld)
+ * @version (1.1, Sep 23. 2018)
  */
 public class Die
 {
@@ -30,7 +30,7 @@ public class Die
         roll();
         name=Name;
     }
-    
+
     /**
      * Method sets the face falue of the dice using random number generator
      * Face values could be: 1,2,3,4,5,6
